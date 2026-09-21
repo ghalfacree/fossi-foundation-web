@@ -6,7 +6,7 @@ author: Gareth Halfacree
 date: 2026-09-21
 ---
 
-<img src="/blog/2026-09-15-ecl100/orconf.jpg" style="max-width:100%" />
+<img src="/blog/2026-09-21-ecl100/orconf.jpg" style="max-width:100%" />
 
 ## ORconf 2026 a Resounding Success
 
@@ -19,7 +19,7 @@ It's amazing to see how the interest for open source silicon keeps growing and w
 **-Olof Kindgren, FOSSi Foundation Director**
 
 
-<img src="/blog/2026-09-15-ecl100/fusesoc.jpg" style="max-width:100%" />
+<img src="/blog/2026-09-21-ecl100/fusesoc.jpg" style="max-width:100%" />
 
 ## The Award-Winning FuseSoC Turns 15
 
@@ -38,7 +38,7 @@ In the years since the project’s [initial git commit](https://github.com/olofk
 As always, the latest source code is available [on the FuseSoC GitHub repository](https://github.com/olofk/fusesoc) under the permissive BSD 2-Clause licence.
 
 
-<img src="/blog/2026-09-15-ecl100/i3c.jpg" style="max-width:100%" />
+<img src="/blog/2026-09-21-ecl100/i3c.jpg" style="max-width:100%" />
 
 ## CHIPS Alliance Adds Host Support to its I3C Core
 
@@ -55,7 +55,7 @@ The CHIPS Alliance has announced a new version of its open-source I3C core, whic
 A full list of the features implemented are available [in the core’s documentation](https://chipsalliance.github.io/i3c-core/controller_overview.html); the core itself is available [on GitHub](https://github.com/chipsalliance/i3c-core) under the same permissive Apache 2.0 licence as earlier versions.
 
 
-<img src="/blog/2026-09-15-ecl100/peppermint.jpg" style="max-width:100%" />
+<img src="/blog/2026-09-21-ecl100/peppermint.jpg" style="max-width:100%" />
 
 ## lowRISC Prepares OpenTitan Peppermint for Area-Constrained Projects
 
@@ -70,7 +70,7 @@ The Peppermint variant of OpenTitan is, its creators say, designed with space-co
 Peppermint is currently going through the design and development stage, lowRISC has confirmed, with software and hardware verification planned for completion in the first half of 2027. Source code did not appear to have been made public at the time of writing.
 
 
-<img src="/blog/2026-09-15-ecl100/openroad.jpg" style="max-width:100%" />
+<img src="/blog/2026-09-21-ecl100/openroad.jpg" style="max-width:100%" />
 
 ## Google Joins the OpenROAD Initiative
 
@@ -85,7 +85,7 @@ The move sees Google’s Aaron Cunningham appointed to the OpenROAD Initiative�
 More information on the OpenROAD Project is available [on the official website](https://openroad.org/).
 
 
-<img src="/blog/2026-09-15-ecl100/python.jpg" style="max-width:100%" />
+<img src="/blog/2026-09-21-ecl100/python.jpg" style="max-width:100%" />
 
 ## CPython Gains RISC-V Support
 
@@ -102,7 +102,7 @@ Python core team member Stan Ulbrych has announced that CPython, the reference i
 More information is available [on the Python blog](https://blog.python.org/2026/08/riscv-now-officially-supported/); the CPython source code is available [on GitHub](https://github.com/python/cpython) under the Python Software Foundation Licence Version 2.
 
 
-<img src="/blog/2026-09-15-ecl100/waferspace.jpg" style="max-width:100%" />
+<img src="/blog/2026-09-21-ecl100/waferspace.jpg" style="max-width:100%" />
 
 ## wafer.space’s Second Run Enters Production
 
@@ -117,7 +117,7 @@ wafer.space is similar to Tiny Tapeout in providing a path to small-volume produ
 A full list of public designs included in the second production run is available [on GitHub](https://www.crowdsupply.com/wafer-space/gf180mcu-run-3); those interested in taking part in the third run can find out how [on Crowd Supply](https://www.crowdsupply.com/wafer-space/gf180mcu-run-3), which includes options for full-size-, half-width, half-height, and new quarter-sized chips starting at $2,000 for 1,000 bare dice.
 
 
-<img src="/blog/2026-09-15-ecl100/sifive.jpg" style="max-width:100%" />
+<img src="/blog/2026-09-21-ecl100/sifive.jpg" style="max-width:100%" />
 
 ## SiFive Releases an Open RISC-V Vector Kernel Library, SKL
 
@@ -134,7 +134,7 @@ We’re thrilled to announce the launch of the SiFive Kernel Library or SKL (pro
 The SiFive Kernel Library is available [on GitHub](https://github.com/sifiveinc/skl) now, under the permissive MIT licence.
 
 
-<img src="/blog/2026-09-15-ecl100/miniisp.jpg" style="max-width:100%" />
+<img src="/blog/2026-09-21-ecl100/miniisp.jpg" style="max-width:100%" />
 
 ## AMD Releases Open Image Signal Processor Core
 
@@ -151,7 +151,7 @@ AMD has released a permissively-licensed image signal processor, Mini-ISP, targe
 Mini-ISP is available [on GitHub](https://github.com/amd/mini-isp) under the permissive MIT licence; additional information is available [on Hackster.io](https://www.hackster.io/news/amd-s-permissive-license-mini-isp-is-a-tiny-image-signal-processor-for-ultrascale-and-newer-fpgas-216466f8390f) and [Notebookcheck](https://www.notebookcheck.net/AMD-quietly-open-sources-costly-image-processor-for-FPGAs.1386506.0.html).
 
 
-<img src="/blog/2026-09-15-ecl100/qemu.jpg" style="max-width:100%" />
+<img src="/blog/2026-09-21-ecl100/qemu.jpg" style="max-width:100%" />
 
 ## QEMU 11.1 Brings RISC-V Big-Endian Emulation
 
@@ -166,7 +166,7 @@ The release also introduces the emulator’s first support for big-endian, rathe
 A full changelog is available [on the QEMU website](https://wiki.qemu.org/ChangeLog/11.1), while source code is published [to GitHub](https://github.com/qemu/qemu) under the GNU General Public Licence 2 and compatible licences.
 
 
-<img src="/blog/2026-09-15-ecl100/3d.jpg" style="max-width:100%" />
+<img src="/blog/2026-09-21-ecl100/3d.jpg" style="max-width:100%" />
 
 ## Researchers Release Benchmarks for 3D-IC Designs
 
@@ -181,7 +181,7 @@ Researchers from the University of California Los Angeles’ department of elect
 The team’s paper is available as an open-access preprint [on arXiv](https://arxiv.org/abs/2608.25155); the benchmarks have been published [to Dryad](https://datadryad.org/dataset/doi:10.5061/dryad.76hdr7tb6) under an unspecified citation-required open-source licence.
 
 
-<img src="/blog/2026-09-15-ecl100/newsinbrief.jpg" style="max-width:100%" />
+<img src="/blog/2026-09-21-ecl100/newsinbrief.jpg" style="max-width:100%" />
 
 ## News in Brief
 
