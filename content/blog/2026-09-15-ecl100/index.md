@@ -3,8 +3,21 @@ layout: post
 title: "El Correo Libre Issue 100"
 description: El Correo Libre Newsletter, Issue 100
 author: Gareth Halfacree
-date: 2026-09-15
+date: 2026-09-21
 ---
+
+<img src="/blog/2026-09-15-ecl100/orconf.jpg" style="max-width:100%" />
+
+## ORconf 2026 a Resounding Success
+
+ORConf 2026 is over. This was the biggest ORConf yet with almost 200 registered people, over 60 presentations, and plenty of discussions and collaborations in between.
+
+A big thank you from all of us organisers to all of you who made the event such a success. As always, all presentations are available on the [FOSSi Foundation Youtube channel](https://www.youtube.com/c/FOSSiFoundation/videos) for those who couldn't make it to the event.
+
+It's amazing to see how the interest for open source silicon keeps growing and we hope to see you all at the next [ORConf](https://fossi-foundation.org/orconf/), [Latch-Up](https://fossi-foundation.org/latch-up/) or [Down Underflow](https://fossi-foundation.org/downunderflow/2026).
+
+**-Olof Kindgren, FOSSi Foundation Director**
+
 
 <img src="/blog/2026-09-15-ecl100/fusesoc.jpg" style="max-width:100%" />
 
